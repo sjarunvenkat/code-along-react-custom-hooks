@@ -2,6 +2,12 @@
 
 # Kalvium Lab | Custom hooks
 
+## Solution : Output
+
+![session](https://github.com/sjarunvenkat/code-along-react-custom-hooks/blob/main/sessionstorage%20output.png)
+
+![local](https://github.com/sjarunvenkat/code-along-react-custom-hooks/blob/main/localstorage%20output.png)
+
 ## Learning Goals
 
 In this exercise, the aim is to understand the concept of custom hooks.
